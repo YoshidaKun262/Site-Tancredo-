@@ -54,6 +54,10 @@
     padding: 24px 0;
 }
 
+.estudantes{
+    background-image: linear-gradient(#FF5C00,#000000);
+}
+
 .estudante-imagem{
     width: 120px;
 }
@@ -78,4 +82,9 @@
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: whitesmoke;
+    text-align: center;
 }
